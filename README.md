@@ -1,3 +1,7 @@
+# Information about repository
+You can change code and improve feel free :)
+Don't forget subscribe on channel [PicsWorld](https://www.youtube.com/@picsworldstudio/featured)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

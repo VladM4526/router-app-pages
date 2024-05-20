@@ -1,7 +1,7 @@
 # Information about repository
 You can change code and improve feel free :)
 Don't forget subscribe on channel [PicsWorld](https://www.youtube.com/@picsworldstudio/featured)
-And also you can find tutorial this project on my youtube channel: [React app to the next level with React Router pages](https://youtu.be/lnKl6je63U0)
+And also you can find tutorial this project on my youtube channel: [React app to the next level with React Router pages](https://youtu.be/DCLEKZV-_bA)
 
 # Getting Started with Create React App
 
@@ -20,4 +20,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### And also you can to see live page: [react-app-mobile-menu-tutorial](https://react-js-mobile-menu-tutorilal.netlify.app/)
+### And also you can to see live page: [react-app-router-tutorial](https://react-app-router-tutorial.netlify.app/)
